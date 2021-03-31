@@ -1,0 +1,48 @@
+Piko Cafe
+Boba|Small, Medium, Large|5.75, 6.50, 7.50|Matcha|true|
+Boba|Small, Medium, Large|5.75, 6.50, 7.50|Matcha|false|
+Boba|Small, Medium, Large|5.75, 6.50, 7.50|Taro|false|
+Mochiko Chicken|Small, Large |9.50, 13.00|true|true|
+Mochiko Chicken|Small, Large|9.50, 12.00|false|false|
+New Line
+Java Cafe
+Acai Bowl|Small, Large|9.00, 12.50|Banana|Mango|Honey|Maple Granola|
+Acai Bowl|Small, Large|9.00, 13.50|Banana|Almond butter|Strawberry|Maple Granola|
+Boba|Small, Medium|5.75, 6.50|Milk Tea|true|
+Boba|Small, Medium|5.75, 6.50|Milk Tea|false|
+Boba|Small, Medium|5.75, 7.50|Chai|True|
+Boba|Small, Medium|5.75, 7.50|Chai|false|
+New Line
+Wow Wow Lemonade
+Acai Bowl|Small, Large|9.00, 12.50|Honey|Banana|Blue Berry|Maple Granola|
+Acai Bowl|Small, Large|9.00, 12.50|Honey|Banana|Coconut Flakes|Maple Granola|
+Acai Bowl|Small, Large|9.00, 12.50|Strawberry|Raspberry|Blue Berry|Maple Granola|
+Acai Bowl|Small, Large|9.00, 12.50|Mango|Papaya|Kiwi|Maple Granola|
+Acai Bowl|Small, Large|9.00, 12.50|Honey|Banana|Strawberry|Maple Granola|
+New Line
+L&L
+Mochiko Chicken|Small, Large|9.50, 13.50|true|true|
+Mochiko Chicken|Small, Large|9.50, 12.50|false|true|
+Mochiko Chicken|Small, Large|9.50, 12.50|false|false|
+New Line
+Tin Roof
+Mochiko Chicken|Small, Large|9.50, 13.50|true|true|
+Mochiko Chicken|Small, Large|9.50, 12.50|false|true|
+Mochiko Chicken|Small, Large|9.50, 12.50|false|false|
+Acai Bowl|Small, Large|9.00, 12.50|Honey|Banana|Strawberry|Maple Granola|
+Acai Bowl|Small, Large|9.00, 12.50|Honey|Banana|Coconut Flakes|Maple Granola|
+Boba|Small, Medium, Large|5.75, 6.50, 7.50|Matcha|true|
+Boba|Small, Medium, Large|5.75, 6.50, 7.50|Matcha|false|
+New Line
+Mo Ono
+Acai Bowl|Medium|10.00|Honey|Banana|Blue Berry|Maple Granola|
+Acai Bowl|Medium|10.00|Honey|Banana|Coconut Flakes|Maple Granola|
+Acai Bowl|Medium|10.00|Strawberry|Raspberry|Blue Berry|Maple Granola|
+Acai Bowl|Medium|10.00|Mango|Papaya|Kiwi|Maple Granola|
+Acai Bowl|Medium|10.00|Honey|Banana|Strawberry|Maple Granola|
+New Line
+Like Poke?
+Mochiko Chicken|Medium|11.00|true|true|
+Mochiko Chicken|Medium|10.00|false|true|
+Mochiko Chicken|Medium|10.00|false|false|
+
